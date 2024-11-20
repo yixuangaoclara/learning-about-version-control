@@ -1,2 +1,3 @@
-# learning-about-version-control
-dsci522
+# Learning about Version Control
+
+Author: Yixuan Gao
